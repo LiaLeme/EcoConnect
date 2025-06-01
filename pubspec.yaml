@@ -1,0 +1,10 @@
+flutter:
+  assets:
+    - assets/images/logo.png
+    -
+    -
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5  # Para chamadas API
+  fluttertoast: ^8.2.1  # Para mensagens de validação
